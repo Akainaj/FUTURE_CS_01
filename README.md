@@ -35,13 +35,13 @@ Folder: `Task-1-Vulnerability-Assessment`
 
 ---
 
-# 📧 Task 2 — Phishing Email Detection & Awareness
+Task 2 — Phishing Email Detection & Awareness
 
-## 🔍 Description:
+Description:
 
 Analyzed multiple phishing email samples and identified social engineering techniques used by attackers.
 
-## ⚠️ Key Learnings:
+Key Learnings:
 
 * Email spoofing detection
 * Malicious link identification
@@ -56,7 +56,7 @@ Folder: `Task-2-Phishing-Detection`
 
 ---
 
-# 🔗 Task 3 — API Security Risk Analysis
+Task 3 — API Security Risk Analysis
 
 Description:
 
