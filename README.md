@@ -1,4 +1,4 @@
-Cybersecurity Internship Projects (Future Interns)
+# Cybersecurity Internship Projects – Future Interns
 
 Prepared By:
 
